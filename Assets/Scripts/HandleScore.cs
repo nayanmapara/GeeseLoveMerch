@@ -8,7 +8,7 @@ public class HandleScore : MonoBehaviour
 
     public TextMeshProUGUI textMeshProUGUI;
     public TextMeshProUGUI win;
-    public int requiredScore = 1;
+    public int requiredScore = 15;
     int score = 0;
 
     bool won = false;
