@@ -1,5 +1,7 @@
 # Geese Love Merch
 
+![Game Pic](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/025/844/datas/gallery.jpg)
+
 ## The Spark
 
 **How Geese Love Merch Was Created**
